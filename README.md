@@ -1,4 +1,4 @@
 # hello-world
-Just the first test
-Reaquanting myself with Github
-Damnit
+Just the first test.
+Reaquainting myself with Github.
+Damnit.
